@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">num18_ListViewAdapter</string>
+    <string name="Hw18_title">listView adapter用法</string>
+    <string name="Hw18_mag">刪我刪我</string>
+</resources>
